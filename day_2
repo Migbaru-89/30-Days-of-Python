@@ -1,0 +1,28 @@
+#Day 2: 30 Days of python programming
+first_name='migbaru'
+last_name='workneh'
+full_name='migbaru_workneh'
+country='Ethiopia'
+city='Addis-Ababa'
+age=34
+year=1990
+is_married='yes'
+is_true='yes_true'
+is_light_on='no'
+first_name, last_name, age='migbaru', 'workneh', '34'
+
+##Excercies 2
+
+type(first_name)
+type(last_name)
+type(full_name)
+type(country)
+type(city)
+type(age)
+type(year)
+type(is_married)
+type(is_true)
+type(is_light_on)
+type(first_name, last_name, age)
+
+len(first_name)
