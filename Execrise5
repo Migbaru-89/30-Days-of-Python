@@ -1,0 +1,29 @@
+empty_list=[]
+courses=['microeconomics', 'macroeconomics', 'econometrics', 'research', 'software']
+len(courses)
+first_item=courses[0]
+print(first_item)
+middle_item=courses[2]
+last_item=course[4]
+mixed_data_types=['migbaru', '34', '1.67', 'married', addis_ababa]
+it_companies=['facebook', 'google', 'microsoft', 'apple', 'ibm', 'oracle', 'amazon']
+print(it_companies)
+print(mixed_data_types)
+print(courses)
+print('Number of it_companies:', len(it_companies))
+print('first_company:', it_companies(0))
+print('middle_company:', it_companies(3))
+print('last_company:', it_companies(6))
+it_companies.append('Huawi')
+it_itcompanies.upper('google')
+it_companies.insert(3, 'Huawi')
+it_companies.sort()
+it_companies.reverse()
+it_companies.remove('facebook')
+it_companies.remove('Huawi')
+it_companies.remove('amazon')
+del it_companies
+front_end = ['HTML', 'CSS', 'JS', 'React', 'Redux']
+back_end = ['Node','Express', 'MongoDB']
+full_stack=front_end + back_end
+full_stack.insert(5, 6, 'Python', 'SQL')
