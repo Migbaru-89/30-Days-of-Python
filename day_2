@@ -1,0 +1,26 @@
+Day 2: 30 Days of python programming
+  migbaru_alamirew=100
+  workneh=1000
+  migbaru_alamirew_workneh=100000
+  ethiopia=3000
+  addis_ababa=125
+  age=34
+  year=1990
+  is_married=2010
+  is_true=1
+  is_light_on=10
+
+  #excercise 2
+  type(migbaru_alamirew)
+  type(workneh)
+  type(workneh)
+  type(migbaru_alamirew_workneh)
+  type(ethiopia)
+  type(addis_ababa)
+  type(age)
+  type(year)
+  type(is_married)
+  type(is_true)
+  type(is_light_on)
+  len(migbaru_alamirew)
+  num_one=5
